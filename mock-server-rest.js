@@ -3,7 +3,7 @@ import cors from "cors";
 import fs from "fs";
 
 const app = express();
-const PORT = 4000;
+const PORT = process.env.PORT || 4000; // <-- necessário para funcionar no Render
 
 app.use(cors());
 
@@ -29,5 +29,5 @@ app.get("/fitMe/:id", (req, res) => {
 });
 
 app.listen(PORT, () => {
-  console.log(`🚀 Servidor REST rodando em http://localhost:${PORT}`);
+  console.log(`🚀 Servidor REST rodando na porta ${PORT}`);
 });
