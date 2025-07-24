@@ -1,0 +1,229 @@
+{
+  "fitMes": [
+    {
+      "objectId": "rest1",
+      "name": "Veggie Fit",
+      "rating": 4.7,
+      "deliveryTime": "25-35",
+      "image": "https://encurtador.com.br/27Zq9",
+      "location": "Av. Paulista, 900 - São Paulo, SP",
+      "topDishes": [
+        {
+          "name": "Salada de Quinoa",
+          "description": "Quinoa orgânica com grão-de-bico, tomate cereja, pepino, hortelã e molho de limão.",
+          "image": "https://encurtador.com.br/Nrn0G",
+          "price": 26.0
+        },
+        {
+          "name": "Tofu Grelhado com Legumes",
+          "description": "Tofu crocante grelhado servido com legumes da estação e arroz integral.",
+          "image": "https://encurtador.com.br/a98Yo",
+          "price": 30.0
+        },
+        {
+          "name": "Lasanha de Berinjela",
+          "description": "Camadas de berinjela grelhada, molho de tomate rústico e ricota de castanha.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmmfKjdfA-JLcpIdQyMsZRakyiYVHDiirmuw&s",
+          "price": 32.0
+        }
+      ]
+    },
+    {
+      "objectId": "rest2",
+      "name": "Verde Vida",
+      "rating": 4.9,
+      "deliveryTime": "20-30",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjjP0FO0-Aunuj2Bf5NVmrWnUvvcfbbdLXFg&s",
+      "location": "Rua Harmonia, 400 - Belo Horizonte, MG",
+      "topDishes": [
+        {
+          "name": "Strogonoff de Grão-de-Bico",
+          "description": "Grão-de-bico ao molho cremoso de castanha com cogumelos e arroz integral.",
+          "image": "https://anamariareceitas.com.br/wp-content/uploads/2024/05/estrogonofe-de-grao-de-bico-768x511.jpg",
+          "price": 28.0
+        },
+        {
+          "name": "Hambúrguer de Lentilha",
+          "description": "Pão integral com hambúrguer de lentilha, rúcula, tomate e maionese vegana.",
+          "image": "https://blog.biglar.com.br/wp-content/uploads/2022/11/iStock-1311906498.jpeg",
+          "price": 29.0
+        },
+        {
+          "name": "Curry de Legumes",
+          "description": "Mix de legumes ao curry amarelo com leite de coco e arroz basmati.",
+          "image": "https://claudia.abril.com.br/wp-content/uploads/2020/02/curry-de-legumes.jpg?quality=70&strip=info&w=1024",
+          "price": 31.5
+        }
+      ]
+    },
+    {
+      "objectId": "rest3",
+      "name": "Veggie Fit",
+      "rating": 4.7,
+      "deliveryTime": "25-35",
+      "image": "https://encurtador.com.br/27Zq9",
+      "location": "Av. Paulista, 900 - São Paulo, SP",
+      "topDishes": [
+        {
+          "name": "Salada de Quinoa",
+          "description": "Quinoa orgânica com grão-de-bico, tomate cereja, pepino, hortelã e molho de limão.",
+          "image": "https://encurtador.com.br/Nrn0G",
+          "price": 26.0
+        },
+        {
+          "name": "Tofu Grelhado com Legumes",
+          "description": "Tofu crocante grelhado servido com legumes da estação e arroz integral.",
+          "image": "https://encurtador.com.br/a98Yo",
+          "price": 30.0
+        },
+        {
+          "name": "Lasanha de Berinjela",
+          "description": "Camadas de berinjela grelhada, molho de tomate rústico e ricota de castanha.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmmfKjdfA-JLcpIdQyMsZRakyiYVHDiirmuw&s",
+          "price": 32.0
+        }
+      ]
+    },
+    {
+      "objectId": "rest4",
+      "name": "Verde Vida",
+      "rating": 4.9,
+      "deliveryTime": "20-30",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjjP0FO0-Aunuj2Bf5NVmrWnUvvcfbbdLXFg&s",
+      "location": "Rua Harmonia, 400 - Belo Horizonte, MG",
+      "topDishes": [
+        {
+          "name": "Strogonoff de Grão-de-Bico",
+          "description": "Grão-de-bico ao molho cremoso de castanha com cogumelos e arroz integral.",
+          "image": "https://anamariareceitas.com.br/wp-content/uploads/2024/05/estrogonofe-de-grao-de-bico-768x511.jpg",
+          "price": 28.0
+        },
+        {
+          "name": "Hambúrguer de Lentilha",
+          "description": "Pão integral com hambúrguer de lentilha, rúcula, tomate e maionese vegana.",
+          "image": "https://blog.biglar.com.br/wp-content/uploads/2022/11/iStock-1311906498.jpeg",
+          "price": 29.0
+        },
+        {
+          "name": "Curry de Legumes",
+          "description": "Mix de legumes ao curry amarelo com leite de coco e arroz basmati.",
+          "image": "https://claudia.abril.com.br/wp-content/uploads/2020/02/curry-de-legumes.jpg?quality=70&strip=info&w=1024",
+          "price": 31.5
+        }
+      ]
+    },
+    {
+      "objectId": "rest5",
+      "name": "Veggie Fit",
+      "rating": 4.7,
+      "deliveryTime": "25-35",
+      "image": "https://encurtador.com.br/27Zq9",
+      "location": "Av. Paulista, 900 - São Paulo, SP",
+      "topDishes": [
+        {
+          "name": "Salada de Quinoa",
+          "description": "Quinoa orgânica com grão-de-bico, tomate cereja, pepino, hortelã e molho de limão.",
+          "image": "https://encurtador.com.br/Nrn0G",
+          "price": 26.0
+        },
+        {
+          "name": "Tofu Grelhado com Legumes",
+          "description": "Tofu crocante grelhado servido com legumes da estação e arroz integral.",
+          "image": "https://encurtador.com.br/a98Yo",
+          "price": 30.0
+        },
+        {
+          "name": "Lasanha de Berinjela",
+          "description": "Camadas de berinjela grelhada, molho de tomate rústico e ricota de castanha.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmmfKjdfA-JLcpIdQyMsZRakyiYVHDiirmuw&s",
+          "price": 32.0
+        }
+      ]
+    },
+    {
+      "objectId": "rest6",
+      "name": "Verde Vida",
+      "rating": 4.9,
+      "deliveryTime": "20-30",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjjP0FO0-Aunuj2Bf5NVmrWnUvvcfbbdLXFg&s",
+      "location": "Rua Harmonia, 400 - Belo Horizonte, MG",
+      "topDishes": [
+        {
+          "name": "Strogonoff de Grão-de-Bico",
+          "description": "Grão-de-bico ao molho cremoso de castanha com cogumelos e arroz integral.",
+          "image": "https://anamariareceitas.com.br/wp-content/uploads/2024/05/estrogonofe-de-grao-de-bico-768x511.jpg",
+          "price": 28.0
+        },
+        {
+          "name": "Hambúrguer de Lentilha",
+          "description": "Pão integral com hambúrguer de lentilha, rúcula, tomate e maionese vegana.",
+          "image": "https://blog.biglar.com.br/wp-content/uploads/2022/11/iStock-1311906498.jpeg",
+          "price": 29.0
+        },
+        {
+          "name": "Curry de Legumes",
+          "description": "Mix de legumes ao curry amarelo com leite de coco e arroz basmati.",
+          "image": "https://claudia.abril.com.br/wp-content/uploads/2020/02/curry-de-legumes.jpg?quality=70&strip=info&w=1024",
+          "price": 31.5
+        }
+      ]
+    },
+    {
+      "objectId": "rest7",
+      "name": "Veggie Fit",
+      "rating": 4.7,
+      "deliveryTime": "25-35",
+      "image": "https://encurtador.com.br/27Zq9",
+      "location": "Av. Paulista, 900 - São Paulo, SP",
+      "topDishes": [
+        {
+          "name": "Salada de Quinoa",
+          "description": "Quinoa orgânica com grão-de-bico, tomate cereja, pepino, hortelã e molho de limão.",
+          "image": "https://encurtador.com.br/Nrn0G",
+          "price": 26.0
+        },
+        {
+          "name": "Tofu Grelhado com Legumes",
+          "description": "Tofu crocante grelhado servido com legumes da estação e arroz integral.",
+          "image": "https://encurtador.com.br/a98Yo",
+          "price": 30.0
+        },
+        {
+          "name": "Lasanha de Berinjela",
+          "description": "Camadas de berinjela grelhada, molho de tomate rústico e ricota de castanha.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmmfKjdfA-JLcpIdQyMsZRakyiYVHDiirmuw&s",
+          "price": 32.0
+        }
+      ]
+    },
+    {
+      "objectId": "rest8",
+      "name": "Verde Vida",
+      "rating": 4.9,
+      "deliveryTime": "20-30",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjjP0FO0-Aunuj2Bf5NVmrWnUvvcfbbdLXFg&s",
+      "location": "Rua Harmonia, 400 - Belo Horizonte, MG",
+      "topDishes": [
+        {
+          "name": "Strogonoff de Grão-de-Bico",
+          "description": "Grão-de-bico ao molho cremoso de castanha com cogumelos e arroz integral.",
+          "image": "https://anamariareceitas.com.br/wp-content/uploads/2024/05/estrogonofe-de-grao-de-bico-768x511.jpg",
+          "price": 28.0
+        },
+        {
+          "name": "Hambúrguer de Lentilha",
+          "description": "Pão integral com hambúrguer de lentilha, rúcula, tomate e maionese vegana.",
+          "image": "https://blog.biglar.com.br/wp-content/uploads/2022/11/iStock-1311906498.jpeg",
+          "price": 29.0
+        },
+        {
+          "name": "Curry de Legumes",
+          "description": "Mix de legumes ao curry amarelo com leite de coco e arroz basmati.",
+          "image": "https://claudia.abril.com.br/wp-content/uploads/2020/02/curry-de-legumes.jpg?quality=70&strip=info&w=1024",
+          "price": 31.5
+        }
+      ]
+    }
+  ]
+}
+
